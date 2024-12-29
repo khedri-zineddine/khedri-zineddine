@@ -1,5 +1,7 @@
 # 👋 Hi there, I'm Zineddine!
 
+Software Engineer passionate about crafting exceptional web/mobile experiences | Open to exciting opportunities! 🚀
+
 ## 🚀 About Me
 
 I'm a passionate software engineer with a love for clean code and innovative solutions. When I'm not pushing pixels or optimizing performance, you'll find me exploring new tech frontiers or mentoring fellow developers.
